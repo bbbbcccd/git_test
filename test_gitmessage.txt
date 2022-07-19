@@ -1,0 +1,1 @@
+Test ~/gitmessage.txt
